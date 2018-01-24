@@ -1,1 +1,4 @@
 # MIM-Git
+
+Exercice github
+---------------
